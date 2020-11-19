@@ -4,7 +4,7 @@ class Tiger extends Animal
 {
 public function makesound()
 {
-    return "Tiger: roarrrrr!";
+    return "Tiger1: roarrrrr!";
     // TODO: Implement makesound() method.
 }
 }

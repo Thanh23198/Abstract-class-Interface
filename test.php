@@ -5,7 +5,7 @@ abstract class Animal{
     public abstract function setName($name);
     public abstract function run();
 }
-class Buffalo extends Animal{
+class Buffalo extends Animal1{
     public function getName()
     {
         return $this->name;

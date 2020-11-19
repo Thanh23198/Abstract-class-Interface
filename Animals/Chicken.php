@@ -5,7 +5,7 @@ class Chicken extends Animal implements Edible
 {
 public function makesound()
 {
-    return "Chicken: cluck-cluck!";
+    return "Chicken1: cluck-cluck!";
     // TODO: Implement makesound() method.
 }
 public function HowtoEat()

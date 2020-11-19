@@ -12,7 +12,7 @@ echo $animal->makesound()." <br> ";
         echo $animal->howToEat(). "<br>";
     }
 }
-echo ('---- Fruits<br>' );
+echo ('---- Fruits1<br>' );
 
 $fruits[0] = new Apple();
 $fruits[1] = new Orange();
